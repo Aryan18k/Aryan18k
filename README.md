@@ -2,7 +2,7 @@ Hi 👋, I'm Aryan Karnati
 
 An Aspiring Software Engineer and Data Evangelist
 
-🔭 I’m currently working on Recat, Node. js, Php, JavaScript and AWS.
+🔭 I’m currently working on React, Node.js, Php, JavaScript and AWS.
 
 👯 I’m looking to collaborate on building full stack projects
 
