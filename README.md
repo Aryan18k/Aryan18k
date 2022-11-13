@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi 👋, I'm Aryan Karnati
+A passionate Full Stack Developer 
+🔭 I’m currently working on Recat, Node. js, Php, JavaScript and AWS.
 
-<!--
-**Aryan18k/Aryan18k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 I’m looking to collaborate on building full stack projects
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me akarnati@usc.edu
+
+📄 Know about my experiences Sravan Kumar
+
+⚡ Fun fact “There’s no place like 127.0.0.1.”
+
+Connect with me:
