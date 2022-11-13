@@ -15,7 +15,7 @@ An Aspiring Software Engineer and Data Evangelist
 
 ⚡ Fun fact “There’s no place like 127.0.0.1.”
 
-Connect with me: [LinkedIn][2]
+Connect with me on [LinkedIn][2]
 
 [1]: https://github.com/Aryan18k/Aryan18k  "Github"
 [2]: https://www.linkedin.com/in/aryan-karnati-2a39461aa/ "LinkedIn"
