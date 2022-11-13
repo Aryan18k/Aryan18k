@@ -1,6 +1,6 @@
 Hi 👋, I'm Aryan Karnati
 
-A passionate Full Stack Developer 
+An Aspiring Software Engineer and Data Evangelist
 
 🔭 I’m currently working on Recat, Node. js, Php, JavaScript and AWS.
 
