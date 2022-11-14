@@ -1,4 +1,5 @@
 ![landing-gif](https://github.com/Aryan18k/Aryan18k/blob/main/head-gif.gif)
+<p align='center'>
 Hi 👋, I'm Aryan Karnati
 
 An Aspiring Software Engineer and Data Evangelist
@@ -16,7 +17,7 @@ An Aspiring Software Engineer and Data Evangelist
 ⚡ Fun fact “There’s no place like 127.0.0.1.”
 
 Connect with me on [LinkedIn][2]
-
+</p>
 [1]: https://github.com/Aryan18k?tab=repositories  "Github"
 [2]: https://www.linkedin.com/in/aryan-karnati-2a39461aa/ "LinkedIn"
 [3]: https://fancy-mochi-01d153.netlify.app/ "Personal Website"
