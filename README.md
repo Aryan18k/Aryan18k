@@ -21,4 +21,3 @@ Connect with me on [LinkedIn][2]
 [2]: https://www.linkedin.com/in/aryan-karnati-2a39461aa/ "LinkedIn"
 [3]: https://fancy-mochi-01d153.netlify.app/ "Personal Website"
 
-aws c cplusplus css3 firebase html5 java javascript jenkins linux mongodb mysql nodejs php postman react typescript
