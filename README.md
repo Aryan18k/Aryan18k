@@ -15,7 +15,10 @@
   ⚡ Fun fact “There’s no place like 127.0.0.1.”
   
   Connect with me on [LinkedIn][2]
+  
 [1]: https://github.com/Aryan18k?tab=repositories  "Github"
+
 [2]: https://www.linkedin.com/in/aryan-karnati-2a39461aa/ "LinkedIn"
+
 [3]: https://fancy-mochi-01d153.netlify.app/ "Personal Website"
 
