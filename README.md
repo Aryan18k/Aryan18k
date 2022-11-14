@@ -1,8 +1,6 @@
 ![landing-gif](https://github.com/Aryan18k/Aryan18k/blob/main/head-gif.gif)
 
-  Hi 👋, I'm Aryan Karnati
-  
-  An Aspiring Software Engineer and Data Evangelist
+  Hi 👋, I'm Aryan Karnati, an Aspiring Software Engineer and Data Evangelist.
   
   🔭 I’m currently working on React, Node.js, Php, JavaScript and AWS.
   
