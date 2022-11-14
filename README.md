@@ -20,5 +20,5 @@
 
 [2]: https://www.linkedin.com/in/aryan-karnati-2a39461aa/ "LinkedIn"
 
-[3]: https://fancy-mochi-01d153.netlify.app/ "Personal Website"
+[3]: https://drive.google.com/file/d/1Za2Lf_2-CsfAWQwwbPCoNHjXNbPsDO2r/view?usp=sharing
 
